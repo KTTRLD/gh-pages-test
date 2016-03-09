@@ -1,5 +1,5 @@
 # Table of Contents
-1. [Example](#example)
+1. [Anamnese](#example)
 2. [Example2](#example2)
 3. [Third Example](#third-example)
 4. [Zeugnistextes mit Unterbringung](#zeugnistext)
