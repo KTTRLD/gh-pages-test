@@ -14,7 +14,7 @@
 # Verlauf und Behandlung
   - Valproat
   - Quetiapin
-  - 
+
 ## Empfehlungen
 
 
