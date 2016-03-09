@@ -3,17 +3,38 @@
 2. [Example2](#example2)
 3. [Third Example](#third-example)
 4. [Zeugnistextes mit Unterbringung](#zeugnistext)
-5. [Empfehlungen](#emfehlungen)
+5. [Empfehlungen](#empfehlungen)
 
 
 
 
 # Zeugnistextes mit Unterbringung
 
+# Entlassbriefe
 ## Anamnese
 ## Verlauf und Behandlung
+
+### Aufnahmesymptomatik
+### Medikamententherapie
   - Valproat
   - Quetiapin
+  - Risperidon
+  - Sertralin
+  - Venlafaxin
+  - Mirtazapin
+  - Trimipramin
+  - Flupentixol
+  - Lorazepam
+  - Biperiden
+  - Duloxetin
+  - Doxepin
+  - Citalopram
+  - Aripiprazol
+  - Amilsulprid
+  - Clozapin
+  - Olanzapin
+  - 
+### Therapieteilnahme
 
 ## Empfehlungen
 
