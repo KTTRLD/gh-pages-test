@@ -1,5 +1,5 @@
 # Table of Contents
-1. [Anamnese](#Anamnese)
+1. [Anamnese](#anamnese)
 2. [Example2](#example2)
 3. [Third Example](#third-example)
 4. [Zeugnistextes mit Unterbringung](#zeugnistext)
@@ -10,8 +10,8 @@
 
 # Zeugnistextes mit Unterbringung
 
-# Anamnese
-# Verlauf und Behandlung
+## Anamnese
+## Verlauf und Behandlung
   - Valproat
   - Quetiapin
 
